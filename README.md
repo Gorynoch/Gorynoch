@@ -15,8 +15,6 @@ I am an HTML coder who is passionate about the IT field. I am actively involved 
 ##  Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
