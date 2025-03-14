@@ -14,7 +14,7 @@ I am an HTML coder who is passionate about the IT field. I am actively involved 
 
 ## , Statistics
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username =Your username&show_icons=true&theme=radical)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Your username&show_icons=true&theme=radical)
 
 ---
 
