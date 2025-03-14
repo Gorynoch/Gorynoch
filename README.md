@@ -12,7 +12,7 @@ I am an HTML coder who is passionate about the IT field. I am actively involved 
 
 ---
 
-## , Statistics
+##  Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yourusername&show_icons=true&theme=radical)
 
@@ -25,7 +25,7 @@ I am an HTML coder who is passionate about the IT field. I am actively involved 
   - 2023-2023
 
 - **CODE of the Future**
-  - **-**Full stack developer**
+  - **Full stack developer**
   - 2024-2024
 
 ---
