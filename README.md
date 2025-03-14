@@ -1,39 +1,52 @@
-# 👋 Hello! My name is Egor.
+# 👋 Hi there, I'm Egor
+### Full Stack Developer from Russia
 
-I am an HTML coder who is passionate about the IT field. I am actively involved in the development of projects in HTML, JavaScript and Vue.js.
----
-
-## 🧰 Skills and tools
-
-- **Programming**: HTML, JavaScript, Vue.js
-- **Frameworks and libraries**: Vue.js
-- **Tools**: Git
+<div align="center">
+    <img src="..." width="500" height="auto" alt="Developer illustration"/>
+</div>
 
 ---
 
-##  Statistics
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yourusername&show_icons=true&theme=radical)
-
----
-
-## 📄 Education
-
-- **TSOPP**
-  - *HTML coder*
-  - 2023-2023
-
-- **CODE of the Future**
-  - **Full stack developer**
-  - 2024-2024
+### About me
+- 🌱 I’m currently learning **Web3**
+- 📝 I regularly write articles on [Medium](medium-link)
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 🌍 I speak English
 
 ---
 
-# Recommendations of books and resources
-
-- **YouTube Channels**:
-- **Stack Overflow**: A great resource for finding solutions to technical problems.
+### Socials
+<div id="socials" align="center">
+    <a href="linkedin-url">
+        <img src="..." width="30" height="30" alt="LinkedIn"/>
+    </a>
+    <a href="twitter-url">
+        <img src="..." width="30" height="30" alt="Twitter"/>
+    </a>
+    <a href="telegram-url">
+        <img src="..." width="30" height="30" alt="Telegram"/>
+    </a>
+</div>
 
 ---
 
-Thank you for visiting! If you liked my profile, feel free to give stars to my projects and subscribe to updates.
+### Languages and tools
+<img src="..." title="js" width="40" height="40"/> 
+...
+
+---
+
+### My Stat
+<div id="stat" align="center">
+    <img src="..." alt="Profile summary card"/>
+    <img src="..." alt="Most commit language"/>
+    <img src="..." alt="Stats"/>
+</div>
+
+---
+
+### Recent Activity
+<div align="center">
+    <img src="..." alt="Streak stats"/>
+</div>
