@@ -1,9 +1,6 @@
 # 👋 Hello! My name is Egor.
 
-I am an HTML coder who is passionate about the IT field. I am actively involved in the development of projects in HTML, JavaScript and Vue.js .
-<div align="center">
-  <img src="https://c.tenor.com/DZIGll-xxwUAAAAj/code-coding.gif" width="300px" alt="Gif-анимация с компьютером и кодом">
-</div>
+I am an HTML coder who is passionate about the IT field. I am actively involved in the development of projects in HTML, JavaScript and Vue.js.
 ---
 
 ## 🧰 Skills and tools
