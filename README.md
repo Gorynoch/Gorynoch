@@ -31,7 +31,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gorynoch&theme=onedark)](https://github.com/Gorynoch/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Gorynoch&theme=onedark)](https://github.com/Gorynoch/github-profile-trophy)
 
 
 
