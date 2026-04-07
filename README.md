@@ -1,12 +1,13 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Egor
 
-### About me
+###<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="18"/> About me
 
-I’m Full-Stack Developer
-I design and build scalable web applications with focus on architecture, performance, and maintainability
-Experienced in developing full-stack systems from scratch to production
-Strong focus on backend architecture, API design, and data modeling
-Continuously improving in distributed systems and Web3 technologies
+*I’m Full-Stack Developer
+
+* I design and build scalable web applications with focus on architecture, performance, and maintainability
+* Experienced in developing full-stack systems from scratch to production
+* Strong focus on backend architecture, API design, and data modeling
+* Continuously improving in distributed systems and Web3 technologies
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -28,8 +29,22 @@ Continuously improving in distributed systems and Web3 technologies
 
 
 
-### My stat
+## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="18"/> 𝗦𝘁𝗮𝘁𝘀
 
-[![trophy](https://github-profile-trophy.vercel.app/gorynoch=ryo-ma)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gorynoch&theme=darkhub&no-frame=true&margin-w=10&row=1"/>
+</div>
+
 ---
+
+### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="18"/> GitHub stats
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gorynoch&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gorynoch&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gorynoch&theme=github_dark" />
+</div>
+
+
 
