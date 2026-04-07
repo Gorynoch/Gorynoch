@@ -31,3 +31,9 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gorynoch)](https://github.com/Gorynoch/github-profile-trophy)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gorynoch&theme=dark&hide_border=true"/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
