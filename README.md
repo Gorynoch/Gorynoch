@@ -31,11 +31,7 @@
 
 ### My stat
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gorynoch&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gorynoch&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gorynoch&theme=github_dark" alt=""/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?Gorynoch=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
