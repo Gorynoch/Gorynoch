@@ -9,6 +9,14 @@
 * Strong focus on backend architecture, API design, and data modeling
 * Continuously improving in distributed systems and Web3 technologies
 
+<p align="center">
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Gorynoch&style=flat&color=blue"/> •   
+<!--   <a href="https://user-badge.committers.top/india_private/Gorynoch"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> • -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Gorynoch?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/Gorynoch?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/Gorynoch"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -30,10 +38,9 @@
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gorynoch)](https://github.com/Gorynoch/github-profile-trophy)
 
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gorynoch&theme=dark&hide_border=true"/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+</p>
