@@ -39,8 +39,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gorynoch)](https://github.com/Gorynoch/github-profile-trophy)
-
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gorynoch&theme=dark&hide_border=true"/>
 </p>
