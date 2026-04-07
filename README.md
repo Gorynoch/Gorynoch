@@ -1,12 +1,11 @@
-<div id="header" align="center">
-    <h1>Hi there, I'm  Egor </h1>
-    <h3>Full Stack Developer from Russia</h3>
-</div>
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Egor
 
 ### About me
-- 🌱 I’m Full-Stack Developer
-- 🌍 I speak English and Russian
-
+I’m Full-Stack Developer
+I design and build scalable web applications with focus on architecture, performance, and maintainability
+Experienced in developing full-stack systems from scratch to production
+Strong focus on backend architecture, API design, and data modeling
+Continuously improving in distributed systems and Web3 technologies
 ---
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -31,7 +30,6 @@
 
 ### My stat
 
-[![trophy](https://github-profile-trophy.vercel.app/Gorynoch=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/gorynoch=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)(https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
 ---
 
