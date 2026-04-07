@@ -1,8 +1,8 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Egor
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙀𝙜𝙤𝙧
 
-###<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="18"/> About me
+### 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
 
-*I’m Full-Stack Developer
+* I’m Full-Stack Developer
 
 * I design and build scalable web applications with focus on architecture, performance, and maintainability
 * Experienced in developing full-stack systems from scratch to production
@@ -29,22 +29,10 @@
 
 
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="18"/> 𝗦𝘁𝗮𝘁𝘀
+## 𝗦𝘁𝗮𝘁𝘀
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gorynoch&theme=onedark)](https://github.com/Gorynoch/github-profile-trophy)
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gorynoch&theme=darkhub&no-frame=true&margin-w=10&row=1"/>
-</div>
-
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="18"/> GitHub stats
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gorynoch&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gorynoch&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gorynoch&theme=github_dark" />
-</div>
 
 
 
